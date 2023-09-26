@@ -1,7 +1,14 @@
 # ELEVATEX-personalized AI-driven upskilling plans
 This repository contains a project submitted as part of our participation in the work environment Hackathon by lablab.mena
 
-##Introduction
+## Team Members
+
+- [Amjad Almehmadi](https://github.com/iamjad09)
+- [Zain Abdalwahab](https://github.com/Z-A1u)
+- [Amjaad Alsukhayri](https://github.com/AmjaadXX)
+- [Enas Khan](https://github.com/enaskhann)
+
+## Introduction
 In today's rapidly evolving business landscape, organizations strive to optimize their workforce's potential and maintain a competitive edge. Recognizing the importance of employee development and upskilling, this project aims to leverage the power of Artificial Intelligence (AI) to create personalized upskilling plans based on employee performance and current skill levels.
 This data-driven approach enables the identification of patterns, strengths, and areas for improvement, laying the foundation for a robust employee development framework.
 
