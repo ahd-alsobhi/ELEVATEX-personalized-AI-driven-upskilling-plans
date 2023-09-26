@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personalized Learning Chatbot</title>
+</head>
+<body>
+    <h1>Personalized Learning Chatbot</h1>
+    <form action="/get_recommendation" method="post">
+        Experience Level:
+        <input type="text" name="experience"><br><br>
+        Job Role:
+        <input type="text" name="job_role"><br><br>
+        <input type="submit" value="Get Recommendation">
+    </form>
+    {% if recommendation %}
+        <h2>Recommendation:</h2>
+        <p>{{ recommendation }}</p>
+    {% endif %}
+</body>
+</html>
