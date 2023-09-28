@@ -1,5 +1,6 @@
 # ELEVATEX-personalized AI-driven upskilling plans
 This repository contains a project submitted as part of our participation in the work environment Hackathon by lablab.mena
+
 ![CNTFG879XBI8](https://github.com/ahd-alsobhi/ELEVATEX-personalized-AI-driven-upskilling-plans/assets/109044858/d35fcca3-c7e3-4cc1-8335-f6ed93328dec)
 
 ## Team Members
